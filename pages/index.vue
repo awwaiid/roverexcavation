@@ -18,7 +18,6 @@
       <hr />
       <div class="italic">"We can dig it!"</div>
       <div>Jason: <a class="rounded p-1" href="tel:208-709-8676">208-709-8676</a></div>
-      <div>Steven: <a class="rounded p-1" href="tel:208-313-5845">208-313-5845</a></div>
     </div>
   </div>
 </template>
