@@ -34,7 +34,7 @@ export default {
   buildModules: [
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
-    '@nuxt/image',
+    // '@nuxt/image',
     '@nuxtjs/google-fonts',
   ],
 
